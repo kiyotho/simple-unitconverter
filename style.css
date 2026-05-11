@@ -84,3 +84,15 @@ p{
     margin-bottom: 5px;
 
 }
+
+#err{
+
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: white;
+    text-shadow: 0 0 1px black;
+    margin-top: 10px;
+    
+
+}
